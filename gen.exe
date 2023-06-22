@@ -1,0 +1,7 @@
+echo "# congenial-octo-winner" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/darikarmy/congenial-octo-winner.git
+git push -u origin main
